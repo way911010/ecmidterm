@@ -1,0 +1,72 @@
+.s1
+{
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: left;
+}
+.s2
+{
+    color: red;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+}
+.s3
+{
+    color: blue;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: left;
+}
+.b1
+{
+    color: blue;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    background-color: yellow;
+}
+.b2
+{
+    color: blue;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    background-color: red;
+}
+.b3
+{
+    color: blue;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    background-color: red;
+    font-style: italic;
+}
+.b4
+{
+    color: green;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    background-color: yellow;
+}
+.t1
+{
+    color: red;
+    background-color: yellow;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+    font-family: "標楷體";
+}
+    .t2
+{
+    color: purple;
+    background-color: pink;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+    font-family: "標楷體";
+}
